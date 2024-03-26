@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'cowboyregular';
-    src: url('https://cdn.jsdelivr.net/gh/nickberens360/cowboy-font@main/cowboy-webfont.woff2') format('woff2'),
-    url('https://cdn.jsdelivr.net/gh/nickberens360/cowboy-font@main/cowboy-webfont.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/nickberens360/cowboy-font@latest/cowboy-webfont.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/nickberens360/cowboy-font@latest/cowboy-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
