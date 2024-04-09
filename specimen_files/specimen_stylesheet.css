@@ -57,18 +57,11 @@ table {
 }
 
 
-/*body {*/
-/*	color:            #000;*/
-/*	background-color: #dcdcdc;*/
-/*}*/
 body {
-	max-width: 1200px;
-	margin:    0 auto;
-	padding:   20px;
+	color:            #000;
+	background-color: #dcdcdc;
 }
-.width12, .grid12, .span-12 {
-	width: 100%;
-}
+
 a {
 	text-decoration: none;
 	color:           #1883ba;
