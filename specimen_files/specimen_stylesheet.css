@@ -1,6 +1,6 @@
 @import url('grid_12-825-55-15.css');
 
-/*  
+/*
 	CSS Reset by Eric Meyer - Released under Public Domain
     http://meyerweb.com/eric/tools/css/reset/
 */
@@ -57,11 +57,18 @@ table {
 }
 
 
+/*body {*/
+/*	color:            #000;*/
+/*	background-color: #dcdcdc;*/
+/*}*/
 body {
-	color:            #000;
-	background-color: #dcdcdc;
+	max-width: 1200px;
+	margin:    0 auto;
+	padding:   20px;
 }
-
+.width12, .grid12, .span-12 {
+	width: 100%;
+}
 a {
 	text-decoration: none;
 	color:           #1883ba;
